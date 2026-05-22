@@ -22,3 +22,5 @@ Expected untouched files:
 - tests/
 - .github/workflows/ci.yml
 - requirements-dev.txt
+
+LegacyFixer trigger: realistic repo scan.
